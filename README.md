@@ -1,33 +1,66 @@
-<h1 align="center">Suraj Gawade</h1>
-<p align="center">
-Full Stack Developer • React • Node • UI Focused
-</p>
+# Suraj Gawade
+
+Full Stack Developer • React • Node • Clean UI
+Building production-ready web applications and developer tools
 
 ---
 
-## Projects
+## About
 
-* Face Attendance System
-* API Response Visualizer
-* Portfolio Website
-* Chrome New Tab Extension
+I'm a full-stack developer focused on building scalable applications, clean interfaces and real-world products.
+I specialize in React, Node.js and modern web technologies.
+
+Currently working on:
+
+* Production ready full-stack apps
+* UI systems and dashboards
+* Developer tools
+* Real-world business solutions
 
 ---
 
 ## Tech Stack
 
-Frontend: React, Tailwind, JavaScript
-Backend: Node.js, Express
-Database: MongoDB, MySQL
-Tools: Git, Postman, VS Code
+Frontend
+React • Tailwind • JavaScript • HTML • CSS
+
+Backend
+Node.js • Express • REST API
+
+Database
+MongoDB • MySQL
+
+Tools
+Git • GitHub • Postman • VS Code
 
 ---
 
-## Currently Building
+## Featured Projects
 
-* Production Ready UI Systems
-* Developer Tools
-* Full Stack Applications
+### Face Attendance System
+
+Full stack face recognition attendance system with dashboard and API
+
+### API Response Visualizer
+
+Upload API response and visualize structured JSON UI
+
+### Portfolio Website
+
+Modern split-layout developer portfolio with dark UI
+
+### Chrome New Tab Extension
+
+Custom productivity dashboard replacing browser new tab
+
+---
+
+## Currently Learning
+
+* System Design
+* Performance Optimization
+* Advanced React Patterns
+* Scalable Backend Architecture
 
 ---
 
@@ -41,8 +74,14 @@ Tools: Git, Postman, VS Code
 <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 </p>
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
 ---
 
-## Contact
+## Connect
 
-LinkedIn • Portfolio • Email
+Portfolio: https://your-portfolio.com
+LinkedIn: https://linkedin.com/in/your-profile
+Email: [your@email.com](mailto:your@email.com)
